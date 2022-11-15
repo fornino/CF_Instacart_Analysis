@@ -2,6 +2,6 @@
 ### Description
 #### An analysis of Instacart's sales patterns using Python for CareerFoundry Data Analytics course. Libraries used: pandas, numpy, seaborn, matplotlib.
 ### Data
-#### Open-source data made available by PostgreSQL [here](https://www.postgresqltutorial.com/wp-content/uploads/2019/05/dvdrental.zip).
+#### Open-source data from 2017 made available by Instacart [here](https://www.instacart.com/datasets/grocery-shopping-2017).
 ### Contents
-#### Project includes Excel workbook designed for technical colleagues (SQL queries and data output), Data Dictionary, and a Powerpoint deliverable for business managers.
+#### Project includes Jupyter notebook scripts, visualizations, and an Excel report as a deliverable for stakeholders.
